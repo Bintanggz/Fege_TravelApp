@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_primary">#4A90E2</color>
+    <color name="blue_secondary">#6BB6FF</color>
+    <color name="blue_light">#87CEEB</color>
+
+    <!-- Text colors -->
+    <color name="dark_text">#333333</color>
+    <color name="gray_text">#666666</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#444444</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_700">#AB47BC</color>
+    <color name="purple_500">#9C27B0</color>
+
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666860212081",
+    "project_id": "travel-mobile-app-fc3d6",
+    "storage_bucket": "travel-mobile-app-fc3d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666860212081:android:c2b0bb00ab70a492a770d0",
+        "android_client_info": {
+          "package_name": "com.example.fegetravelmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrwyb5oxFzM1c8pxDZD517zg6hvEnp15s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
